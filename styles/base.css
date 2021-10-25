@@ -61,6 +61,7 @@ header {
   top: 0;
   width: 1440px;
   position: fixed;
+  z-index: 1;
 }
 
 .header-inner-wrapper {
